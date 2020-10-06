@@ -1,5 +1,4 @@
-1.0.1 2020-08-05
-  - Added recording with 6 stimuli for subject 18, session 01. (Channel Fz is corrupt, for this reason it was decided not to include this record in the original version of the database)
-
+1.0.1 2020-10-06
+  - 
 1.0.0 2020-07-31
   - Initial release.
